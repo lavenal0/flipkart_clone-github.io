@@ -1,0 +1,196 @@
+@media screen and (max-width:1050px) {
+    .container {
+        background: -webkit-linear-gradient(right, #466264, #ce77f7, #193f42, #cf68ff);
+        overflow: hidden;
+    }
+
+    header {
+        height: 3.4vh;
+        display: flex;
+    }
+    nav {
+        flex-direction: column;
+        height: 14.7vh;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        justify-content: center;
+        align-items: center;
+        height: 157px;
+        /* margin: 0px 0px 0px -167px; */
+    }
+
+    .img-flipkart img {
+        height: 2vh;
+        width: 100%;
+        margin: 0px 6px 0px 0px;
+    }
+
+    .logo2 {
+        margin: 0px 0px 0px 2px;
+    }
+
+    .explore {
+        font-size: 42.2%;
+margin: 8px 0px 0px 3px;
+    }
+
+    .search input {
+        width: 28vw;
+        height: 2.5vh;
+
+    }
+.logo2 img{  width: 0.9vw;
+    height: 1.2vh;
+  }
+    .btn {
+        width: 48px;
+        height: 20px;
+        font-size: 12px;
+        font-family: Roboto, Arial, sans-serif;
+    }
+
+    .close-btn {
+        margin: -7vw 0px 0px 11vw;
+    }
+    .close{
+        margin: 0px 0px 0px 8vw;
+font-size: 4vh;
+    }
+
+    .seller p {
+        font-size: 60%;
+    }
+
+    .login1_txt {
+        font-size: 3vh;
+        margin: 40px 0px 0px 15px;
+        font-weight: bolder;
+    }
+
+    .login1_content {
+        letter-spacing: .3px;
+        line-height: 15px;
+        font-size: 2vh;
+        font-size: 9px;
+        margin: 21px 0px 0px 0px;
+        display: flex;
+    }
+
+    .login-inner {
+        margin: 34px 0px;
+left: 6%;
+        padding: 0;
+        top: 50%;
+height: 60vh;
+        width: 77%;
+    }
+    .labl{
+        font-size: 1.7vh;
+    }
+    .blocklog{
+        width: 100%;
+    }
+
+    .login1 {
+        width: 38vw;
+    }
+
+    .enter-btn button {
+        width: 50%;
+height: 50%;
+font-size: 2vh;
+margin: -34px 0px 0px 9px;
+    }
+    .login-inner form .data{
+        margin: 14px 0px;
+    }
+
+    .enter-btn button:hover {
+        font-size: 12px;
+    }
+
+    .condition {
+        font-size: 6px;
+letter-spacing: .1px;
+margin: 0px 0px 0px 0px;
+    }
+
+    .signuplink {
+        right: 6vw;
+font-size: 2vw;
+letter-spacing: 0.1px;
+    }
+
+    .forgetpassword {
+        font-size: 2.3vw;
+        margin: -16px 0px 0px 0px;
+    }
+
+
+
+
+
+
+    .inner_part1{
+        width: 54%;
+    }
+    .avai-offer{
+        font-size: 3vw;
+    }
+    .saree_con {
+        position: fixed;
+        width: 43%;
+        height: 355px;
+       }
+       .saree_image img{
+        height: 40vh;
+       }
+       .saree_con img:hover{
+border: 0px solid ;
+       } 
+      button {
+        width: 16vw;
+        height: 5vh;
+      }
+      button p{
+        font-size: 2vw;
+      }
+      .head_saree p{
+        font-size: 2.8vw;
+      }
+      .dhamal_img img {
+        height: 6.5vh;
+      }     
+      .detail-price p {
+        font-size: 2vh;
+      } 
+      .detail-price  {
+        font-size: 2vh;
+      } 
+      .rating p{
+        font-size: 1.8vh;
+      }
+      .detail-name {
+        font-size: 11px;
+    }
+      .rate{
+        width: 10vw;
+font-size: 4.2vw;
+height: 3.5vh;
+      }
+      .detail-name p{
+        font-size: 3.4vw;
+      }
+    .ofer{
+        margin-top: 2px;
+        font-size: 1.6vw;
+    }
+    .ofer p{
+        margin-top: 2px;
+        font-size: 1.6vw;
+    }
+    
+    }

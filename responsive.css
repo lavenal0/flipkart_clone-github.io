@@ -1,0 +1,224 @@
+@media screen and (max-width:1000px) {
+    .container {
+        background: -webkit-linear-gradient(right, #466264, #ce77f7, #193f42, #cf68ff);
+        overflow: hidden;
+    }
+
+    header {
+        height: 13.4vh;
+        display: flex;
+    }
+    nav {
+        flex-direction: column;
+        height: 14.7vh;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        justify-content: center;
+        align-items: center;
+        height: 157px;
+        /* margin: 0px 0px 0px -167px; */
+    }
+
+    .img-flipkart img {
+        height: 2vh;
+        width: 100%;
+        margin: 0px 6px 0px 0px;
+    }
+
+    .logo2 {
+        margin: 0px 0px 0px 2px;
+    }
+
+    .explore {
+        font-size: 42.2%;
+margin: 8px 0px 0px 3px;
+    }
+
+    .search input {
+        width: 28vw;
+        font-size: 2vw;
+        height: 2.5vh;
+
+    }
+.logo2 img{  width: 0.9vw;
+    height: 1.2vh;
+  }
+    .btn {
+        width: 29px;
+height: 14px;
+font-size: 7px;
+font-family: Roboto, Arial, sans-serif;
+margin: 5px 0px 0px 8px;
+    }
+
+    .close-btn {
+        margin: -7vw 0px 0px 11vw;
+    }
+    .close{
+        margin: 0px 0px 0px 8vw;
+font-size: 4vh;
+    }
+
+    .seller p {
+        font-size: 60%;
+    }
+
+    .login1_txt {
+        font-size: 3vh;
+        margin: 40px 0px 0px 15px;
+        font-weight: bolder;
+    }
+
+    .login1_content {
+        letter-spacing: .3px;
+        line-height: 15px;
+        font-size: 2vh;
+        font-size: 9px;
+        margin: 21px 0px 0px 0px;
+        display: flex;
+    }
+
+    .login-inner {
+        margin: 34px 0px;
+left: 6%;
+        padding: 0;
+        top: 50%;
+height: 60vh;
+        width: 77%;
+    }
+    .labl{
+        font-size: 1.7vh;
+    }
+    .blocklog{
+        width: 100%;
+    }
+
+    .login1 {
+        width: 38vw;
+    }
+
+    .enter-btn button {
+        width: 50%;
+height: 50%;
+font-size: 2vh;
+margin: -34px 0px 0px 9px;
+    }
+    .login-inner form .data{
+        margin: 14px 0px;
+    }
+
+    .enter-btn button:hover {
+        font-size: 12px;
+    }
+
+    .condition {
+        font-size: 6px;
+letter-spacing: .1px;
+margin: 0px 0px 0px 0px;
+    }
+
+    .signuplink {
+        right: 6vw;
+font-size: 2vw;
+letter-spacing: 0.1px;
+    }
+
+    .forgetpassword {
+        font-size: 2.3vw;
+        margin: -16px 0px 0px 0px;
+    }
+
+
+
+
+
+    .bar {
+        overflow: scroll;
+        align-items: center;
+        justify-content: center;
+    }
+
+.item{
+    overflow: scroll;
+}
+.ads {
+    height: 45vh;
+}
+
+.slider {
+    max-width: 90vw;
+    height: 45vh;
+}
+
+.slides {
+    height: 45vh;
+
+}
+
+.slide {
+    width: 90vw;
+    transition: 1s;
+}
+
+.slide img {
+    width: 90vw;
+    height: 45vh;
+}
+
+.nav-auto {
+    margin-top: 41vh;
+    width: 90vw;
+
+}
+.holder1{
+    overflow: scroll;
+}
+.holder2{
+    overflow: scroll;
+}
+.mob1 img{
+    width: 27vw;
+height: 31vh;
+}
+.mob2 img{
+    width: 27vw;
+    height: 31vh;
+}
+.mob3 img{
+    width: 27vw;
+    height: 31vh;}
+    .holder3{
+        height: 34vh;
+    }
+.mob1 img:hover{
+    width: 27.5vw;
+    height: 31.5vh;
+}
+.mob2 img:hover{
+    width: 27.5vw;
+    height: 31.5vh;
+}
+.mob3 img:hover{
+    width: 27.5vw;
+    height: 31.5vh;
+}
+.row{
+    overflow: scroll;
+}
+.inrow{
+    padding: 30px 24px;
+}
+.copyright{
+    background: -webkit-linear-gradient(right, #466264, #ce77f7, #193f42, #cf68ff);
+}
+.copyright{
+    width: 100%;
+    cursor: pointer;
+    position: absolute;
+    }
+
+
+}

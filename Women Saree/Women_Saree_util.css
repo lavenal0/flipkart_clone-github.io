@@ -1,0 +1,54 @@
+.saree-product:hover{
+    box-shadow: 2px 2px 2px 2px #d3d6db;
+    cursor: pointer;
+}
+.logo img:hover{
+    cursor: pointer;
+    }
+    .inside:hover{
+        background-color: #eef1f7;
+    
+    }
+    .btn:hover{
+        cursor: pointer;
+        font-size: 17px;
+        background-color: #2370f4;
+        color: white;
+    }
+    
+    #show:checked~ .login-outer {
+        display: none;
+    }
+    
+    input[type="checkbox"]{
+        display:none ;
+    }
+    .close-btn :hover{
+        cursor: pointer;
+    }
+    .seller:hover{
+        border:2px solid white;
+        height: 32px;
+        align-items: center;
+        justify-content: center;
+        /* width: 130px; */
+        
+    }
+    .forgetpassword :hover{
+        text-decoration: underline;
+    }
+    .enter-btn button:hover{
+        cursor: pointer;
+        font-size: 22px;
+        
+    }
+    .condition :hover{
+        text-decoration: underline;
+    }
+    .signuplink :hover{
+        text-decoration: underline;
+    }
+    .explore:hover{
+        cursor: pointer;
+        text-decoration: underline;
+    }

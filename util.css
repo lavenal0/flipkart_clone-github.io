@@ -1,0 +1,206 @@
+.text-center{
+    text-align: center;
+}
+
+.logo img:hover{
+cursor: pointer;
+}
+.inside:hover{
+    background-color: #eef1f7;
+
+}
+.btn:hover{
+    cursor: pointer;
+    font-size: 17px;
+    background-color: #2370f4;
+    color: white;
+}
+
+#show:checked~ .login-outer {
+    display: none;
+}
+
+input[type="checkbox"]{
+    display:none ;
+}
+.close-btn :hover{
+    cursor: pointer;
+}
+.seller:hover{
+    border:2px solid white;
+    height: 32px;
+    align-items: center;
+    justify-content: center;
+    /* width: 130px; */
+    
+}
+.forgetpassword :hover{
+    text-decoration: underline;
+}
+.enter-btn button:hover{
+    cursor: pointer;
+    font-size: 22px;
+    
+}
+.condition :hover{
+    text-decoration: underline;
+}
+.signuplink :hover{
+    text-decoration: underline;
+}
+.explore:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.view1{
+    cursor: pointer;
+}
+.view2{
+    cursor: pointer;
+}
+#radio1:checked~.first {
+    margin-left: 0;
+}
+
+#radio2:checked~.first {
+    margin-left: -20%;
+}
+
+#radio3:checked~.first {
+    margin-left: -40%;
+}
+
+#radio4:checked~.first {
+    margin-left: -60%;
+}
+
+.nav-auto div:not(:last-child) {
+    margin-right: 40px;
+}
+
+#radio1:checked~.nav-auto .auto-btn1 {
+    background: rgba(219, 219, 219, 0.671);
+}
+
+#radio2:checked~.nav-auto .auto-btn2 {
+    background: rgba(219, 219, 219, 0.671);
+}
+
+#radio3:checked~.nav-auto .auto-btn3 {
+    background: rgba(219, 219, 219, 0.671);
+}
+
+#radio4:checked~.nav-auto .auto-btn4 {
+    background: rgba(219, 219, 219, 0.671);
+}
+
+
+.product1 img:hover{
+    width: 168px;
+    cursor: pointer;
+}
+.product1:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.product2 img:hover{
+    height: 200px;
+    cursor: pointer;
+}
+.product2:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.product3 img:hover{
+    width: 168px;
+    cursor: pointer;
+}
+.product3:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.product4 img:hover{
+    width: 170px;
+    cursor: pointer;
+}
+.product4:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.product5 img:hover{
+    width: 170px;
+    cursor: pointer;
+}
+.product5:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.product6 img:hover{
+    width: 170px;
+    cursor: pointer;
+}
+.product6:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+
+.pro1 img:hover{
+    width: 170px;
+    cursor: pointer;
+}
+.pro1:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.pro2 img:hover{
+    height: 145px;
+    cursor: pointer;
+}
+.pro2:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.pro3 img:hover{
+    width: 186px;
+    cursor: pointer;
+}
+.pro3:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.pro4 img:hover{
+    width: 170px;
+    cursor: pointer;
+}
+.pro4:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.pro5 img:hover{
+    width: 137px;
+    cursor: pointer;
+}
+.pro5:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.pro6 img:hover{
+    width: 160px;
+    cursor: pointer;
+}
+.pro6:hover{
+    cursor: pointer;
+    color: rgb(80, 83, 252);
+}
+.mob1 img:hover{
+    width: 29.5vw;
+    height: 36.5vh;
+}
+.mob2 img:hover{
+    width: 29.5vw;
+    height: 36.5vh;
+}
+.mob3 img:hover{
+    width: 29.5vw;
+    height: 36.5vh;
+}
